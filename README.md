@@ -15,9 +15,8 @@ OGGM documentation: https://docs.oggm.org/en/stable/
 
 ## Repository Structure
 
-- **CodeFiles/** — Python scripts for all simulations and analyses
-- **NotebookDemos/** — Jupyter notebooks demonstrating how to run the code
-- **InputData/** — RGI 6.0 glacier ID lists for each climate zone
+- Python scripts for all simulations and analyses
+- InputData: — RGI 6.0 glacier ID lists for each climate zone
 
 ## Glacier Complexes
 
