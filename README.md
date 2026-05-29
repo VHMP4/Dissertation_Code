@@ -17,7 +17,7 @@ OGGM documentation: https://docs.oggm.org/en/stable/
 
 - Python scripts for historical and future simulations for individual glaciers (1.1) and climate groups (1.2)
 - Python scripts for climate anomalies for individual glaciers (2.1) and climate groups (2.2)
-- Input Data: — RGI 6.0 glacier ID lists for each climate zone: arid (3.1.), temperate (3.2), and tropical (3.3)
+- Input Data: — RGI 6.0 glacier ID lists for each climate zone: arid (3.1.), tropical (3.2) and temperate (3.3)
 
 ## Glacier Complexes
 
