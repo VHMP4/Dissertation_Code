@@ -19,6 +19,9 @@ OGGM documentation: https://docs.oggm.org/en/stable/
 - Python scripts for climate anomalies for individual glaciers (2.1) and climate groups (2.2)
 - Input Data: — RGI 6.0 glacier ID lists for each climate zone: arid (3.1.), tropical (3.2) and temperate (3.3)
 
+- Input Data for the GIS mapping excercise for Nevado Coropuna, and the Osorno and Guanaco Glaciers (4.0)
+
+
 ## Glacier Complexes
 
 Individual glacier simulations cover three case study complexes:
